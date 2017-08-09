@@ -1,0 +1,25 @@
+{"accounts": 
+[
+   {
+      "Name" : "Xytrex Co.",
+      "industry" : "Finance",
+      "rating" : "Hot",
+      "accType":"Prospect",
+      "annualRevenue" : 444
+   },
+   {
+      "Name" : "Web result",
+      "industry" : "Engineering",
+      "rating" : "Warm",
+      "accType":"Technology Partner",
+      "annualRevenue" : 1000
+   },
+   {
+      "Name" : "Italia on Line",
+      "industry" : "Communications",
+      "rating" : "Cold",
+      "accType":"Technology Partner",
+      "annualRevenue" : 800 
+   }
+]
+}
